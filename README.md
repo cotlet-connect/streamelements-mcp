@@ -109,6 +109,7 @@ StreamElements has an AI chatbot variable, `$(ai)` (alias `$(chatgpt)`), that an
 
 - [StreamElements on Cotlet.dev](https://cotlet.dev/integrations/streamelements-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=streamelements&utm_content=find)
 - [PyPI package streamelements-mcp](https://pypi.org/project/streamelements-mcp/)
+- [Odel](https://odel.app/modules/cotlet/streamelements)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-streamelements-to-ai-agents-guide)
 
 ## Also works with
